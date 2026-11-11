@@ -1,0 +1,1 @@
+# SMT-Trading-View-Indicator
